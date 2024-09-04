@@ -1,0 +1,280 @@
+taker_pos,taker_name,taker_result,taker_href,taker_outcome,taker_team,game_id
+1,Alain Giresse,First penalty,https://en.wikipedia.org/wiki/Alain_Giresse,scored,loser,1
+1,Manfred Kaltz,,https://en.wikipedia.org/wiki/Manfred_Kaltz,scored,winner,1
+2,Manuel Amoros,,https://en.wikipedia.org/wiki/Manuel_Amoros,scored,loser,1
+2,Paul Breitner,,https://en.wikipedia.org/wiki/Paul_Breitner,scored,winner,1
+3,Dominique Rocheteau,,https://en.wikipedia.org/wiki/Dominique_Rocheteau,scored,loser,1
+3,Uli Stielike,,https://en.wikipedia.org/wiki/Uli_Stielike,missed,winner,1
+4,Didier Six,,https://en.wikipedia.org/wiki/Didier_Six,missed,loser,1
+4,Pierre Littbarski,,https://en.wikipedia.org/wiki/Pierre_Littbarski,scored,winner,1
+5,Michel Platini,,https://en.wikipedia.org/wiki/Michel_Platini,scored,loser,1
+5,Karl-Heinz Rummenigge,,https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge,scored,winner,1
+6,Maxime Bossis,,https://en.wikipedia.org/wiki/Maxime_Bossis,missed,loser,1
+6,Horst Hrubesch,Ending goal,https://en.wikipedia.org/wiki/Horst_Hrubesch,scored,winner,1
+1,Sócrates,First penalty,https://en.wikipedia.org/wiki/S%C3%B3crates,missed,loser,2
+1,Yannick Stopyra,,https://en.wikipedia.org/wiki/Yannick_Stopyra,scored,winner,2
+2,"Alemão (footballer, born 1961)",,"https://en.wikipedia.org/wiki/Alem%C3%A3o_(footballer,_born_1961)",scored,loser,2
+2,Manuel Amoros,,https://en.wikipedia.org/wiki/Manuel_Amoros,scored,winner,2
+3,Zico,,https://en.wikipedia.org/wiki/Zico,scored,loser,2
+3,Bruno Bellone,,https://en.wikipedia.org/wiki/Bruno_Bellone,scored,winner,2
+4,Branco (footballer),,https://en.wikipedia.org/wiki/Branco_(footballer),scored,loser,2
+4,Michel Platini,,https://en.wikipedia.org/wiki/Michel_Platini,missed,winner,2
+5,"Júlio César (footballer, born 1963)",,"https://en.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar_(footballer,_born_1963)",missed,loser,2
+5,Luis Fernández,Ending goal,https://en.wikipedia.org/wiki/Luis_Fern%C3%A1ndez,scored,winner,2
+1,Klaus Allofs,First penalty,https://en.wikipedia.org/wiki/Klaus_Allofs,scored,winner,3
+1,Manuel Negrete Arias,,https://en.wikipedia.org/wiki/Manuel_Negrete_Arias,scored,loser,3
+2,Andreas Brehme,,https://en.wikipedia.org/wiki/Andreas_Brehme,scored,winner,3
+2,Fernando Quirarte,,https://en.wikipedia.org/wiki/Fernando_Quirarte,missed,loser,3
+3,Lothar Matthäus,,https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us,scored,winner,3
+3,Raúl Servín,,https://en.wikipedia.org/wiki/Ra%C3%BAl_Serv%C3%ADn,missed,loser,3
+4,Pierre Littbarski,Ending goal,https://en.wikipedia.org/wiki/Pierre_Littbarski,scored,winner,3
+1,Juan Antonio Señor,First penalty,https://en.wikipedia.org/wiki/Juan_Antonio_Se%C3%B1or,scored,loser,4
+1,Nico Claesen,,https://en.wikipedia.org/wiki/Nico_Claesen,scored,winner,4
+2,Eloy Olaya,,https://en.wikipedia.org/wiki/Eloy_Olaya,missed,loser,4
+2,Enzo Scifo,,https://en.wikipedia.org/wiki/Enzo_Scifo,scored,winner,4
+3,Chendo,,https://en.wikipedia.org/wiki/Chendo,scored,loser,4
+3,Hugo Broos,,https://en.wikipedia.org/wiki/Hugo_Broos,scored,winner,4
+4,Emilio Butragueño,,https://en.wikipedia.org/wiki/Emilio_Butrague%C3%B1o,scored,loser,4
+4,Patrick Vervoort,,https://en.wikipedia.org/wiki/Patrick_Vervoort,scored,winner,4
+5,Víctor Muñoz,,https://en.wikipedia.org/wiki/V%C3%ADctor_Mu%C3%B1oz,scored,loser,4
+5,Leo Van der Elst,Ending goal,https://en.wikipedia.org/wiki/Leo_Van_der_Elst,scored,winner,4
+1,Gheorghe Hagi,First penalty,https://en.wikipedia.org/wiki/Gheorghe_Hagi,scored,loser,5
+1,Kevin Sheedy (Irish footballer),,https://en.wikipedia.org/wiki/Kevin_Sheedy_(Irish_footballer),scored,winner,5
+2,Dănuț Lupu,,https://en.wikipedia.org/wiki/D%C4%83nu%C8%9B_Lupu,scored,loser,5
+2,Ray Houghton,,https://en.wikipedia.org/wiki/Ray_Houghton,scored,winner,5
+3,Iosif Rotariu,,https://en.wikipedia.org/wiki/Iosif_Rotariu,scored,loser,5
+3,Andy Townsend,,https://en.wikipedia.org/wiki/Andy_Townsend,scored,winner,5
+4,Ioan Lupescu,,https://en.wikipedia.org/wiki/Ioan_Lupescu,scored,loser,5
+4,Tony Cascarino,,https://en.wikipedia.org/wiki/Tony_Cascarino,scored,winner,5
+5,Daniel Timofte,,https://en.wikipedia.org/wiki/Daniel_Timofte,missed,loser,5
+5,David O'Leary,Ending goal,https://en.wikipedia.org/wiki/David_O%27Leary,scored,winner,5
+1,José Serrizuela,First penalty,https://en.wikipedia.org/wiki/Jos%C3%A9_Serrizuela,scored,winner,6
+1,Dragan Stojković,,https://en.wikipedia.org/wiki/Dragan_Stojkovi%C4%87,missed,loser,6
+2,Jorge Burruchaga,,https://en.wikipedia.org/wiki/Jorge_Burruchaga,scored,winner,6
+2,Robert Prosinečki,,https://en.wikipedia.org/wiki/Robert_Prosine%C4%8Dki,scored,loser,6
+3,Diego Maradona,,https://en.wikipedia.org/wiki/Diego_Maradona,missed,winner,6
+3,Dejan Savićević,,https://en.wikipedia.org/wiki/Dejan_Savi%C4%87evi%C4%87,scored,loser,6
+4,Pedro Troglio,,https://en.wikipedia.org/wiki/Pedro_Troglio,missed,winner,6
+4,Dragoljub Brnović,,https://en.wikipedia.org/wiki/Dragoljub_Brnovi%C4%87,missed,loser,6
+5,Gustavo Dezotti,,https://en.wikipedia.org/wiki/Gustavo_Dezotti,scored,winner,6
+5,Faruk Hadžibegić,Ending miss,https://en.wikipedia.org/wiki/Faruk_Had%C5%BEibegi%C4%87,missed,loser,6
+1,Franco Baresi,First penalty,https://en.wikipedia.org/wiki/Franco_Baresi,scored,loser,7
+1,José Serrizuela,,https://en.wikipedia.org/wiki/Jos%C3%A9_Serrizuela,scored,winner,7
+2,Roberto Baggio,,https://en.wikipedia.org/wiki/Roberto_Baggio,scored,loser,7
+2,Jorge Burruchaga,,https://en.wikipedia.org/wiki/Jorge_Burruchaga,scored,winner,7
+3,Luigi De Agostini,,https://en.wikipedia.org/wiki/Luigi_De_Agostini,scored,loser,7
+3,Julio Olarticoechea,,https://en.wikipedia.org/wiki/Julio_Olarticoechea,scored,winner,7
+4,Roberto Donadoni,,https://en.wikipedia.org/wiki/Roberto_Donadoni,missed,loser,7
+4,Diego Maradona,,https://en.wikipedia.org/wiki/Diego_Maradona,scored,winner,7
+5,Aldo Serena,Ending miss,https://en.wikipedia.org/wiki/Aldo_Serena,missed,loser,7
+1,Gary Lineker,First penalty,https://en.wikipedia.org/wiki/Gary_Lineker,scored,loser,8
+1,Andreas Brehme,,https://en.wikipedia.org/wiki/Andreas_Brehme,scored,winner,8
+2,Peter Beardsley,,https://en.wikipedia.org/wiki/Peter_Beardsley,scored,loser,8
+2,Lothar Matthäus,,https://en.wikipedia.org/wiki/Lothar_Matth%C3%A4us,scored,winner,8
+3,David Platt (footballer),,https://en.wikipedia.org/wiki/David_Platt_(footballer),scored,loser,8
+3,Karl-Heinz Riedle,,https://en.wikipedia.org/wiki/Karl-Heinz_Riedle,scored,winner,8
+4,Stuart Pearce,,https://en.wikipedia.org/wiki/Stuart_Pearce,missed,loser,8
+4,Olaf Thon,,https://en.wikipedia.org/wiki/Olaf_Thon,scored,winner,8
+5,Chris Waddle,Ending miss,https://en.wikipedia.org/wiki/Chris_Waddle,missed,loser,8
+1,Alberto García Aspe,First penalty,https://en.wikipedia.org/wiki/Alberto_Garc%C3%ADa_Aspe,missed,loser,9
+1,Krasimir Balakov,,https://en.wikipedia.org/wiki/Krasimir_Balakov,missed,winner,9
+2,Marcelino Bernal,,https://en.wikipedia.org/wiki/Marcelino_Bernal,missed,loser,9
+2,Boncho Genchev,,https://en.wikipedia.org/wiki/Boncho_Genchev,scored,winner,9
+3,Jorge Rodríguez (footballer),,https://en.wikipedia.org/wiki/Jorge_Rodr%C3%ADguez_(footballer),missed,loser,9
+3,Daniel Borimirov,,https://en.wikipedia.org/wiki/Daniel_Borimirov,scored,winner,9
+4,Claudio Suárez,,https://en.wikipedia.org/wiki/Claudio_Su%C3%A1rez,scored,loser,9
+4,Yordan Letchkov,Ending goal,https://en.wikipedia.org/wiki/Yordan_Letchkov,scored,winner,9
+1,Håkan Mild,First penalty,https://en.wikipedia.org/wiki/H%C3%A5kan_Mild,missed,winner,10
+1,Florin Răducioiu,,https://en.wikipedia.org/wiki/Florin_R%C4%83ducioiu,scored,loser,10
+2,Kennet Andersson,,https://en.wikipedia.org/wiki/Kennet_Andersson,scored,winner,10
+2,Gheorghe Hagi,,https://en.wikipedia.org/wiki/Gheorghe_Hagi,scored,loser,10
+3,Tomas Brolin,,https://en.wikipedia.org/wiki/Tomas_Brolin,scored,winner,10
+3,Ioan Lupescu,,https://en.wikipedia.org/wiki/Ioan_Lupescu,scored,loser,10
+4,Klas Ingesson,,https://en.wikipedia.org/wiki/Klas_Ingesson,scored,winner,10
+4,Dan Petrescu,,https://en.wikipedia.org/wiki/Dan_Petrescu,missed,loser,10
+5,Roland Nilsson,,https://en.wikipedia.org/wiki/Roland_Nilsson,scored,winner,10
+5,Ilie Dumitrescu,,https://en.wikipedia.org/wiki/Ilie_Dumitrescu,scored,loser,10
+6,Henrik Larsson,,https://en.wikipedia.org/wiki/Henrik_Larsson,scored,winner,10
+6,Miodrag Belodedici,Ending miss,https://en.wikipedia.org/wiki/Miodrag_Belodedici,missed,loser,10
+1,Franco Baresi,First penalty,https://en.wikipedia.org/wiki/Franco_Baresi,missed,loser,11
+1,"Márcio Santos (footballer, born 1969)",,"https://en.wikipedia.org/wiki/M%C3%A1rcio_Santos_(footballer,_born_1969)",missed,winner,11
+2,Demetrio Albertini,,https://en.wikipedia.org/wiki/Demetrio_Albertini,scored,loser,11
+2,Romário,,https://en.wikipedia.org/wiki/Rom%C3%A1rio,scored,winner,11
+3,Alberigo Evani,,https://en.wikipedia.org/wiki/Alberigo_Evani,scored,loser,11
+3,Branco (footballer),,https://en.wikipedia.org/wiki/Branco_(footballer),scored,winner,11
+4,Daniele Massaro,,https://en.wikipedia.org/wiki/Daniele_Massaro,missed,loser,11
+4,Dunga,,https://en.wikipedia.org/wiki/Dunga,scored,winner,11
+5,Roberto Baggio,Ending miss,https://en.wikipedia.org/wiki/Roberto_Baggio,missed,loser,11
+1,Sergio Berti,First penalty,https://en.wikipedia.org/wiki/Sergio_Berti,scored,winner,12
+1,Alan Shearer,,https://en.wikipedia.org/wiki/Alan_Shearer,scored,loser,12
+2,Hernán Crespo,,https://en.wikipedia.org/wiki/Hern%C3%A1n_Crespo,missed,winner,12
+2,Paul Ince,,https://en.wikipedia.org/wiki/Paul_Ince,missed,loser,12
+3,Juan Sebastián Verón,,https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Ver%C3%B3n,scored,winner,12
+3,Paul Merson,,https://en.wikipedia.org/wiki/Paul_Merson,scored,loser,12
+4,Marcelo Gallardo,,https://en.wikipedia.org/wiki/Marcelo_Gallardo,scored,winner,12
+4,Michael Owen,,https://en.wikipedia.org/wiki/Michael_Owen,scored,loser,12
+5,Roberto Ayala,,https://en.wikipedia.org/wiki/Roberto_Ayala,scored,winner,12
+5,David Batty,Ending miss,https://en.wikipedia.org/wiki/David_Batty,missed,loser,12
+1,Zinedine Zidane,First penalty,https://en.wikipedia.org/wiki/Zinedine_Zidane,scored,winner,13
+1,Roberto Baggio,,https://en.wikipedia.org/wiki/Roberto_Baggio,scored,loser,13
+2,Bixente Lizarazu,,https://en.wikipedia.org/wiki/Bixente_Lizarazu,missed,winner,13
+2,Demetrio Albertini,,https://en.wikipedia.org/wiki/Demetrio_Albertini,missed,loser,13
+3,David Trezeguet,,https://en.wikipedia.org/wiki/David_Trezeguet,scored,winner,13
+3,Alessandro Costacurta,,https://en.wikipedia.org/wiki/Alessandro_Costacurta,scored,loser,13
+4,Thierry Henry,,https://en.wikipedia.org/wiki/Thierry_Henry,scored,winner,13
+4,Christian Vieri,,https://en.wikipedia.org/wiki/Christian_Vieri,scored,loser,13
+5,Laurent Blanc,,https://en.wikipedia.org/wiki/Laurent_Blanc,scored,winner,13
+5,Luigi Di Biagio,Ending miss,https://en.wikipedia.org/wiki/Luigi_Di_Biagio,missed,loser,13
+1,Ronaldo (Brazilian footballer),First penalty,https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer),scored,winner,14
+1,Frank de Boer,,https://en.wikipedia.org/wiki/Frank_de_Boer,scored,loser,14
+2,Rivaldo,,https://en.wikipedia.org/wiki/Rivaldo,scored,winner,14
+2,Dennis Bergkamp,,https://en.wikipedia.org/wiki/Dennis_Bergkamp,scored,loser,14
+3,"Emerson (footballer, born 1976)",,"https://en.wikipedia.org/wiki/Emerson_(footballer,_born_1976)",scored,winner,14
+3,Phillip Cocu,,https://en.wikipedia.org/wiki/Phillip_Cocu,missed,loser,14
+4,Dunga,,https://en.wikipedia.org/wiki/Dunga,scored,winner,14
+4,Ronald de Boer,Ending miss,https://en.wikipedia.org/wiki/Ronald_de_Boer,missed,loser,14
+1,Robbie Keane,First penalty,https://en.wikipedia.org/wiki/Robbie_Keane,scored,loser,15
+1,Fernando Hierro,,https://en.wikipedia.org/wiki/Fernando_Hierro,scored,winner,15
+2,Matt Holland,,https://en.wikipedia.org/wiki/Matt_Holland,missed,loser,15
+2,Rubén Baraja,,https://en.wikipedia.org/wiki/Rub%C3%A9n_Baraja,scored,winner,15
+3,David Connolly,,https://en.wikipedia.org/wiki/David_Connolly,missed,loser,15
+3,"Juanfran (footballer, born 1976)",,"https://en.wikipedia.org/wiki/Juanfran_(footballer,_born_1976)",missed,winner,15
+4,Kevin Kilbane,,https://en.wikipedia.org/wiki/Kevin_Kilbane,missed,loser,15
+4,Juan Carlos Valerón,,https://en.wikipedia.org/wiki/Juan_Carlos_Valer%C3%B3n,missed,winner,15
+5,Steve Finnan,,https://en.wikipedia.org/wiki/Steve_Finnan,scored,loser,15
+5,Gaizka Mendieta,Ending goal,https://en.wikipedia.org/wiki/Gaizka_Mendieta,scored,winner,15
+1,Hwang Sun-hong,First penalty,https://en.wikipedia.org/wiki/Hwang_Sun-hong,scored,winner,16
+1,Fernando Hierro,,https://en.wikipedia.org/wiki/Fernando_Hierro,scored,loser,16
+2,Park Ji-sung,,https://en.wikipedia.org/wiki/Park_Ji-sung,scored,winner,16
+2,Rubén Baraja,,https://en.wikipedia.org/wiki/Rub%C3%A9n_Baraja,scored,loser,16
+3,Seol Ki-hyeon,,https://en.wikipedia.org/wiki/Seol_Ki-hyeon,scored,winner,16
+3,Xavi,,https://en.wikipedia.org/wiki/Xavi,scored,loser,16
+4,Ahn Jung-hwan,,https://en.wikipedia.org/wiki/Ahn_Jung-hwan,scored,winner,16
+4,Joaquín (footballer),,https://en.wikipedia.org/wiki/Joaqu%C3%ADn_(footballer),missed,loser,16
+5,Hong Myung-bo,Ending goal,https://en.wikipedia.org/wiki/Hong_Myung-bo,scored,winner,16
+1,Andriy Shevchenko,First penalty,https://en.wikipedia.org/wiki/Andriy_Shevchenko,missed,winner,17
+1,Marco Streller,,https://en.wikipedia.org/wiki/Marco_Streller,missed,loser,17
+2,Artem Milevskiy,,https://en.wikipedia.org/wiki/Artem_Milevskiy,scored,winner,17
+2,Tranquillo Barnetta,,https://en.wikipedia.org/wiki/Tranquillo_Barnetta,missed,loser,17
+3,Serhiy Rebrov,,https://en.wikipedia.org/wiki/Serhiy_Rebrov,scored,winner,17
+3,Ricardo Cabanas,,https://en.wikipedia.org/wiki/Ricardo_Cabanas,missed,loser,17
+4,Oleh Husyev,Ending goal,https://en.wikipedia.org/wiki/Oleh_Husyev,scored,winner,17
+1,Oliver Neuville,First penalty,https://en.wikipedia.org/wiki/Oliver_Neuville,scored,winner,18
+1,Julio Ricardo Cruz,,https://en.wikipedia.org/wiki/Julio_Ricardo_Cruz,scored,loser,18
+2,Michael Ballack,,https://en.wikipedia.org/wiki/Michael_Ballack,scored,winner,18
+2,Roberto Ayala,,https://en.wikipedia.org/wiki/Roberto_Ayala,missed,loser,18
+3,Lukas Podolski,,https://en.wikipedia.org/wiki/Lukas_Podolski,scored,winner,18
+3,Maxi Rodríguez,,https://en.wikipedia.org/wiki/Maxi_Rodr%C3%ADguez,scored,loser,18
+4,Tim Borowski,,https://en.wikipedia.org/wiki/Tim_Borowski,scored,winner,18
+4,Esteban Cambiasso,Ending miss,https://en.wikipedia.org/wiki/Esteban_Cambiasso,missed,loser,18
+1,Simão Sabrosa,First penalty,https://en.wikipedia.org/wiki/Sim%C3%A3o_Sabrosa,scored,winner,19
+1,Frank Lampard,,https://en.wikipedia.org/wiki/Frank_Lampard,missed,loser,19
+2,Hugo Viana,,https://en.wikipedia.org/wiki/Hugo_Viana,missed,winner,19
+2,Owen Hargreaves,,https://en.wikipedia.org/wiki/Owen_Hargreaves,scored,loser,19
+3,Petit (Portuguese footballer),,https://en.wikipedia.org/wiki/Petit_(Portuguese_footballer),missed,winner,19
+3,Steven Gerrard,,https://en.wikipedia.org/wiki/Steven_Gerrard,missed,loser,19
+4,Hélder Postiga,,https://en.wikipedia.org/wiki/H%C3%A9lder_Postiga,scored,winner,19
+4,Jamie Carragher,,https://en.wikipedia.org/wiki/Jamie_Carragher,missed,loser,19
+5,Cristiano Ronaldo,Ending goal,https://en.wikipedia.org/wiki/Cristiano_Ronaldo,scored,winner,19
+1,Andrea Pirlo,First penalty,https://en.wikipedia.org/wiki/Andrea_Pirlo,scored,winner,20
+1,Sylvain Wiltord,,https://en.wikipedia.org/wiki/Sylvain_Wiltord,scored,loser,20
+2,Marco Materazzi,,https://en.wikipedia.org/wiki/Marco_Materazzi,scored,winner,20
+2,David Trezeguet,,https://en.wikipedia.org/wiki/David_Trezeguet,missed,loser,20
+3,Daniele De Rossi,,https://en.wikipedia.org/wiki/Daniele_De_Rossi,scored,winner,20
+3,Eric Abidal,,https://en.wikipedia.org/wiki/Eric_Abidal,scored,loser,20
+4,Alessandro Del Piero,,https://en.wikipedia.org/wiki/Alessandro_Del_Piero,scored,winner,20
+4,Willy Sagnol,,https://en.wikipedia.org/wiki/Willy_Sagnol,scored,loser,20
+5,Fabio Grosso,Ending goal,https://en.wikipedia.org/wiki/Fabio_Grosso,scored,winner,20
+1,Édgar Barreto,First penalty,https://en.wikipedia.org/wiki/%C3%89dgar_Barreto,scored,winner,21
+1,Yasuhito Endō,,https://en.wikipedia.org/wiki/Yasuhito_End%C5%8D,scored,loser,21
+2,Lucas Barrios,,https://en.wikipedia.org/wiki/Lucas_Barrios,scored,winner,21
+2,Makoto Hasebe,,https://en.wikipedia.org/wiki/Makoto_Hasebe,scored,loser,21
+3,Cristian Riveros,,https://en.wikipedia.org/wiki/Cristian_Riveros,scored,winner,21
+3,Yūichi Komano,,https://en.wikipedia.org/wiki/Y%C5%ABichi_Komano,missed,loser,21
+4,Nelson Valdez,,https://en.wikipedia.org/wiki/Nelson_Valdez,scored,winner,21
+4,Keisuke Honda,,https://en.wikipedia.org/wiki/Keisuke_Honda,scored,loser,21
+5,Óscar Cardozo,Ending goal,https://en.wikipedia.org/wiki/%C3%93scar_Cardozo,scored,winner,21
+1,Diego Forlán,First penalty,https://en.wikipedia.org/wiki/Diego_Forl%C3%A1n,scored,winner,22
+1,Asamoah Gyan,,https://en.wikipedia.org/wiki/Asamoah_Gyan,scored,loser,22
+2,Mauricio Victorino,,https://en.wikipedia.org/wiki/Mauricio_Victorino,scored,winner,22
+2,Stephen Appiah,,https://en.wikipedia.org/wiki/Stephen_Appiah,scored,loser,22
+3,Andrés Scotti,,https://en.wikipedia.org/wiki/Andr%C3%A9s_Scotti,scored,winner,22
+3,John Mensah,,https://en.wikipedia.org/wiki/John_Mensah,missed,loser,22
+4,Maxi Pereira,,https://en.wikipedia.org/wiki/Maxi_Pereira,missed,winner,22
+4,Dominic Adiyiah,,https://en.wikipedia.org/wiki/Dominic_Adiyiah,missed,loser,22
+5,Sebastián Abreu,Ending goal,https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Abreu,scored,winner,22
+1,David Luiz,First penalty,https://en.wikipedia.org/wiki/David_Luiz,scored,winner,23
+1,Mauricio Pinilla,,https://en.wikipedia.org/wiki/Mauricio_Pinilla,missed,loser,23
+2,"Willian (footballer, born 1988)",,"https://en.wikipedia.org/wiki/Willian_(footballer,_born_1988)",missed,winner,23
+2,Alexis Sánchez,,https://en.wikipedia.org/wiki/Alexis_S%C3%A1nchez,missed,loser,23
+3,"Marcelo (footballer, born 1988)",,"https://en.wikipedia.org/wiki/Marcelo_(footballer,_born_1988)",scored,winner,23
+3,Charles Aránguiz,,https://en.wikipedia.org/wiki/Charles_Ar%C3%A1nguiz,scored,loser,23
+4,Hulk (footballer),,https://en.wikipedia.org/wiki/Hulk_(footballer),missed,winner,23
+4,Marcelo Díaz,,https://en.wikipedia.org/wiki/Marcelo_D%C3%ADaz,scored,loser,23
+5,Neymar,,https://en.wikipedia.org/wiki/Neymar,scored,winner,23
+5,Gonzalo Jara,Ending miss,https://en.wikipedia.org/wiki/Gonzalo_Jara,missed,loser,23
+1,Celso Borges,First penalty,https://en.wikipedia.org/wiki/Celso_Borges,scored,winner,24
+1,Kostas Mitroglou,,https://en.wikipedia.org/wiki/Kostas_Mitroglou,scored,loser,24
+2,Bryan Ruiz,,https://en.wikipedia.org/wiki/Bryan_Ruiz,scored,winner,24
+2,Lazaros Christodoulopoulos,,https://en.wikipedia.org/wiki/Lazaros_Christodoulopoulos,scored,loser,24
+3,Giancarlo González,,https://en.wikipedia.org/wiki/Giancarlo_Gonz%C3%A1lez,scored,winner,24
+3,José Holebas,,https://en.wikipedia.org/wiki/Jos%C3%A9_Holebas,scored,loser,24
+4,Joel Campbell,,https://en.wikipedia.org/wiki/Joel_Campbell,scored,winner,24
+4,Theofanis Gekas,,https://en.wikipedia.org/wiki/Theofanis_Gekas,missed,loser,24
+5,Michael Umaña,Ending goal,https://en.wikipedia.org/wiki/Michael_Uma%C3%B1a,scored,winner,24
+1,Celso Borges,First penalty,https://en.wikipedia.org/wiki/Celso_Borges,scored,loser,25
+1,Robin van Persie,,https://en.wikipedia.org/wiki/Robin_van_Persie,scored,winner,25
+2,Bryan Ruiz,,https://en.wikipedia.org/wiki/Bryan_Ruiz,missed,loser,25
+2,Arjen Robben,,https://en.wikipedia.org/wiki/Arjen_Robben,scored,winner,25
+3,Giancarlo González,,https://en.wikipedia.org/wiki/Giancarlo_Gonz%C3%A1lez,scored,loser,25
+3,Wesley Sneijder,,https://en.wikipedia.org/wiki/Wesley_Sneijder,scored,winner,25
+4,Christian Bolaños,,https://en.wikipedia.org/wiki/Christian_Bola%C3%B1os,scored,loser,25
+4,Dirk Kuyt,,https://en.wikipedia.org/wiki/Dirk_Kuyt,scored,winner,25
+5,Michael Umaña,Ending miss,https://en.wikipedia.org/wiki/Michael_Uma%C3%B1a,missed,loser,25
+1,Ron Vlaar,First penalty,https://en.wikipedia.org/wiki/Ron_Vlaar,missed,loser,26
+1,Lionel Messi,,https://en.wikipedia.org/wiki/Lionel_Messi,scored,winner,26
+2,Arjen Robben,,https://en.wikipedia.org/wiki/Arjen_Robben,scored,loser,26
+2,Ezequiel Garay,,https://en.wikipedia.org/wiki/Ezequiel_Garay,scored,winner,26
+3,Wesley Sneijder,,https://en.wikipedia.org/wiki/Wesley_Sneijder,missed,loser,26
+3,Sergio Agüero,,https://en.wikipedia.org/wiki/Sergio_Ag%C3%BCero,scored,winner,26
+4,Dirk Kuyt,,https://en.wikipedia.org/wiki/Dirk_Kuyt,scored,loser,26
+4,Maxi Rodríguez,Ending goal,https://en.wikipedia.org/wiki/Maxi_Rodr%C3%ADguez,scored,winner,26
+1,Andrés Iniesta,First penalty,https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta,scored,loser,27
+1,Fyodor Smolov,,https://en.wikipedia.org/wiki/Fyodor_Smolov,scored,winner,27
+2,Gerard Piqué,,https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9,scored,loser,27
+2,Sergei Ignashevich,,https://en.wikipedia.org/wiki/Sergei_Ignashevich,scored,winner,27
+3,"Koke (footballer, born 1992)",,"https://en.wikipedia.org/wiki/Koke_(footballer,_born_1992)",missed,loser,27
+3,Aleksandr Golovin (footballer),,https://en.wikipedia.org/wiki/Aleksandr_Golovin_(footballer),scored,winner,27
+4,Sergio Ramos,,https://en.wikipedia.org/wiki/Sergio_Ramos,scored,loser,27
+4,Denis Cheryshev,,https://en.wikipedia.org/wiki/Denis_Cheryshev,scored,winner,27
+5,Iago Aspas,Ending miss,https://en.wikipedia.org/wiki/Iago_Aspas,missed,loser,27
+1,Christian Eriksen,First penalty,https://en.wikipedia.org/wiki/Christian_Eriksen,missed,loser,28
+1,Milan Badelj,,https://en.wikipedia.org/wiki/Milan_Badelj,missed,winner,28
+2,Simon Kjær,,https://en.wikipedia.org/wiki/Simon_Kj%C3%A6r,scored,loser,28
+2,Andrej Kramarić,,https://en.wikipedia.org/wiki/Andrej_Kramari%C4%87,scored,winner,28
+3,Michael Krohn-Dehli,,https://en.wikipedia.org/wiki/Michael_Krohn-Dehli,scored,loser,28
+3,Luka Modrić,,https://en.wikipedia.org/wiki/Luka_Modri%C4%87,scored,winner,28
+4,Lasse Schöne,,https://en.wikipedia.org/wiki/Lasse_Sch%C3%B6ne,missed,loser,28
+4,Josip Pivarić,,https://en.wikipedia.org/wiki/Josip_Pivari%C4%87,missed,winner,28
+5,Nicolai Jørgensen,,https://en.wikipedia.org/wiki/Nicolai_J%C3%B8rgensen,missed,loser,28
+5,Ivan Rakitić,Ending goal,https://en.wikipedia.org/wiki/Ivan_Rakiti%C4%87,scored,winner,28
+1,Radamel Falcao,First penalty,https://en.wikipedia.org/wiki/Radamel_Falcao,scored,loser,29
+1,Harry Kane,,https://en.wikipedia.org/wiki/Harry_Kane,scored,winner,29
+2,Juan Cuadrado,,https://en.wikipedia.org/wiki/Juan_Cuadrado,scored,loser,29
+2,Marcus Rashford,,https://en.wikipedia.org/wiki/Marcus_Rashford,scored,winner,29
+3,Luis Muriel,,https://en.wikipedia.org/wiki/Luis_Muriel,scored,loser,29
+3,Jordan Henderson,,https://en.wikipedia.org/wiki/Jordan_Henderson,missed,winner,29
+4,Mateus Uribe,,https://en.wikipedia.org/wiki/Mateus_Uribe,missed,loser,29
+4,Kieran Trippier,,https://en.wikipedia.org/wiki/Kieran_Trippier,scored,winner,29
+5,Carlos Bacca,,https://en.wikipedia.org/wiki/Carlos_Bacca,missed,loser,29
+5,Eric Dier,Ending goal,https://en.wikipedia.org/wiki/Eric_Dier,scored,winner,29
+1,Fyodor Smolov,First penalty,https://en.wikipedia.org/wiki/Fyodor_Smolov,missed,loser,30
+1,Marcelo Brozović,,https://en.wikipedia.org/wiki/Marcelo_Brozovi%C4%87,scored,winner,30
+2,Alan Dzagoev,,https://en.wikipedia.org/wiki/Alan_Dzagoev,scored,loser,30
+2,Mateo Kovačić,,https://en.wikipedia.org/wiki/Mateo_Kova%C4%8Di%C4%87,missed,winner,30
+3,Mário Fernandes (footballer),,https://en.wikipedia.org/wiki/M%C3%A1rio_Fernandes_(footballer),missed,loser,30
+3,Luka Modrić,,https://en.wikipedia.org/wiki/Luka_Modri%C4%87,scored,winner,30
+4,Sergei Ignashevich,,https://en.wikipedia.org/wiki/Sergei_Ignashevich,scored,loser,30
+4,Domagoj Vida,,https://en.wikipedia.org/wiki/Domagoj_Vida,scored,winner,30
+5,Daler Kuzyayev,,https://en.wikipedia.org/wiki/Daler_Kuzyayev,scored,loser,30
+5,Ivan Rakitić,Ending goal,https://en.wikipedia.org/wiki/Ivan_Rakiti%C4%87,scored,winner,30

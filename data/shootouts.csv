@@ -1,0 +1,31 @@
+game_id,winner,score,loser,scored,missed,taken,winner_gk,loser_gk,year,host,round,date
+1,West Germany,3–3,France,5–4,1–2,6–6,Harald Schumacher,Jean-Luc Ettori,1982,Spain,Semi-finals,8 July 1982
+2,France,1–1,Brazil,4–3,1–2,5–5,Joël Bats,Carlos Roberto Gallo,1986,Mexico,Quarter-finals,21 June 1986
+3,West Germany,0–0,Mexico,4–1,0–2,4–3,Harald Schumacher,Pablo Larios,1986,Mexico,Quarter-finals,21 June 1986
+4,Belgium,1–1,Spain,5–4,0–1,5–5,Jean-Marie Pfaff,Andoni Zubizarreta,1986,Mexico,Quarter-finals,22 June 1986
+5,Republic of Ireland,0–0,Romania,5–4,0–1,5–5,Packie Bonner,Silviu Lung,1990,Italy,Second round,25 June 1990
+6,Argentina,0–0,Yugoslavia,3–2,2–3,5–5,Sergio Goycochea,Tomislav Ivković,1990,Italy,Quarter-finals,30 June 1990
+7,Argentina,1–1,Italy,4–3,0–2,4–5,Sergio Goycochea,Walter Zenga,1990,Italy,Semi-finals,3 July 1990
+8,West Germany,1–1,England,4–3,0–2,4–5,Bodo Illgner,Peter Shilton,1990,Italy,Semi-finals,4 July 1990
+9,Bulgaria,1–1,Mexico,3–1,1–3,4–4,Borislav Mikhailov,Jorge Campos,1994,United States,Second round,5 July 1994
+10,Sweden,2–2,Romania,5–4,1–2,6–6,Thomas Ravelli,Florin Prunea,1994,United States,Quarter-finals,10 July 1994
+11,Brazil,0–0,Italy,3–2,1–3,4–5,Cláudio Taffarel,Gianluca Pagliuca,1994,United States,Final,17 July 1994
+12,Argentina,2–2,England,4–3,1–2,5–5,Carlos Roa,David Seaman,1998,France,Second round,30 June 1998
+13,France,0–0,Italy,4–3,1–2,5–5,Fabien Barthez,Gianluca Pagliuca,1998,France,Quarter-finals,3 July 1998
+14,Brazil,1–1,Netherlands,4–2,0–2,4–4,Cláudio Taffarel,Edwin van der Sar,1998,France,Semi-finals,7 July 1998
+15,Spain,1–1,Republic of Ireland,3–2,2–3,5–5,Iker Casillas,Shay Given,2002,Korea–Japan,Second round,16 June 2002
+16,South Korea,0–0,Spain,5–3,0–1,5–4,Lee Woon-jae,Iker Casillas,2002,Korea–Japan,Quarter-finals,22 June 2002
+17,Ukraine,0–0,Switzerland,3–0,1–3,4–3,Oleksandr Shovkovskiy,Pascal Zuberbühler,2006,Germany,Second round,26 June 2006
+18,Germany,1–1,Argentina,4–2,0–2,4–4,Jens Lehmann,Leo Franco,2006,Germany,Quarter-finals,30 June 2006
+19,Portugal,0–0,England,3–1,2–3,5–4,Ricardo ,Paul Robinson ,2006,Germany,Quarter-finals,1 July 2006
+20,Italy,1–1,France,5–3,0–1,5–4,Gianluigi Buffon,Fabien Barthez,2006,Germany,Final,9 July 2006
+21,Paraguay,0–0,Japan,5–3,0–1,5–4,Justo Villar,Eiji Kawashima,2010,South Africa,Second round,29 June 2010
+22,Uruguay,1–1,Ghana,4–2,1–2,5–4,Fernando Muslera,Richard Kingson,2010,South Africa,Quarter-finals,2 July 2010
+23,Brazil,1–1,Chile,3–2,2–3,5–5,Júlio César ,Claudio Bravo,2014,Brazil,Second round,28 June 2014
+24,Costa Rica,1–1,Greece,5–3,0–1,5–4,Keylor Navas,Orestis Karnezis,2014,Brazil,Second round,29 June 2014
+25,Netherlands,0–0,Costa Rica,4–3,0–2,4–5,Tim Krul,Keylor Navas,2014,Brazil,Quarter-finals,5 July 2014
+26,Argentina,0–0,Netherlands,4–2,0–2,4–4,Sergio Romero,Jasper Cillessen,2014,Brazil,Semi-finals,9 July 2014
+27,Russia,1–1,Spain,4–3,0–2,4–5,Igor Akinfeev,David de Gea,2018,Russia,Second round,1 July 2018
+28,Croatia,1–1,Denmark,3–2,2–3,5–5,Danijel Subašić,Kasper Schmeichel,2018,Russia,Second round,1 July 2018
+29,England,1–1,Colombia,4–3,1–2,5–5,Jordan Pickford,David Ospina,2018,Russia,Second round,3 July 2018
+30,Croatia,2–2,Russia,4–3,1–2,5–5,Danijel Subašić,Igor Akinfeev,2018,Russia,Quarter-finals,7 July 2018

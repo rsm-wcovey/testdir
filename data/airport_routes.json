@@ -1,0 +1,211 @@
+{
+    "nodes": [
+        {
+            "id": "BGI"
+        },
+        {
+            "id": "CDG"
+        },
+        {
+            "id": "DEL"
+        },
+        {
+            "id": "DOH"
+        },
+        {
+            "id": "DSM"
+        },
+        {
+            "id": "EWR"
+        },
+        {
+            "id": "EYW"
+        },
+        {
+            "id": "HND"
+        },
+        {
+            "id": "ICN"
+        },
+        {
+            "id": "JFK"
+        },
+        {
+            "id": "LGA"
+        },
+        {
+            "id": "LHR"
+        },
+        {
+            "id": "ORD"
+        },
+        {
+            "id": "SAN"
+        },
+        {
+            "id": "SFO"
+        }
+    ],
+    "links": [
+        {
+            "source": "BGI",
+            "target": "CDG"
+        },
+        {
+            "source": "CDG",
+            "target": "EWR"
+        },
+        {
+            "source": "CDG",
+            "target": "EYW"
+        },
+        {
+            "source": "CDG",
+            "target": "HND"
+        },
+        {
+            "source": "CDG",
+            "target": "ICN"
+        },
+        {
+            "source": "CDG",
+            "target": "JFK"
+        },
+        {
+            "source": "DEL",
+            "target": "DOH"
+        },
+        {
+            "source": "DEL",
+            "target": "DSM"
+        },
+        {
+            "source": "DEL",
+            "target": "EWR"
+        },
+        {
+            "source": "DOH",
+            "target": "DSM"
+        },
+        {
+            "source": "DOH",
+            "target": "LHR"
+        },
+        {
+            "source": "DSM",
+            "target": "EYW"
+        },
+        {
+            "source": "DSM",
+            "target": "LHR"
+        },
+        {
+            "source": "EYW",
+            "target": "HND"
+        },
+        {
+            "source": "HND",
+            "target": "ORD"
+        },
+        {
+            "source": "ICN",
+            "target": "SAN"
+        },
+        {
+            "source": "ICN",
+            "target": "ORD"
+        },
+        {
+            "source": "JFK",
+            "target": "LGA"
+        },
+        {
+            "source": "LHR",
+            "target": "ORD"
+        },
+        {
+            "source": "ORD",
+            "target": "SFO"
+        },
+        {
+            "source": "CDG",
+            "target": "BGI"
+        },
+        {
+            "source": "EWR",
+            "target": "CDG"
+        },
+        {
+            "source": "EYW",
+            "target": "CDG"
+        },
+        {
+            "source": "HND",
+            "target": "CDG"
+        },
+        {
+            "source": "ICN",
+            "target": "CDG"
+        },
+        {
+            "source": "JFK",
+            "target": "CDG"
+        },
+        {
+            "source": "DOH",
+            "target": "DEL"
+        },
+        {
+            "source": "DSM",
+            "target": "DEL"
+        },
+        {
+            "source": "EWR",
+            "target": "DEL"
+        },
+        {
+            "source": "DSM",
+            "target": "DOH"
+        },
+        {
+            "source": "LHR",
+            "target": "DOH"
+        },
+        {
+            "source": "EYW",
+            "target": "DSM"
+        },
+        {
+            "source": "LHR",
+            "target": "DSM"
+        },
+        {
+            "source": "HND",
+            "target": "EYW"
+        },
+        {
+            "source": "ORD",
+            "target": "HND"
+        },
+        {
+            "source": "SAN",
+            "target": "ICN"
+        },
+        {
+            "source": "ORD",
+            "target": "ICN"
+        },
+        {
+            "source": "LGA",
+            "target": "JFK"
+        },
+        {
+            "source": "ORD",
+            "target": "LHR"
+        },
+        {
+            "source": "SFO",
+            "target": "ORD"
+        }
+    ]
+}
